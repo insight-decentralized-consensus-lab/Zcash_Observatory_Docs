@@ -31,18 +31,21 @@ As Zcash adoption expands and the network scales, consumers, researchers, and bu
 - [ ] Global network
 - [ ] Dashboard / front-end
 
-## Donate to Observatoy development
+### Donate to continue Observatory development
 
-We'd like to thank the Zcash Foundation for the [financial support](https://grants.zfnd.org/proposals/21786689-zcash-observatory) enabled us to develop the observatory tooling. We are currently developing a public research database, open-source alerting system, and free dashboard. The Observatory Project is seeking sponsors to fund the continued creation and operation of these public NetSec utilities.
+We'd like to thank the Zcash Foundation for generous [financial support](https://grants.zfnd.org/proposals/21786689-zcash-observatory) that enabled us to develop the observatory tooling.
 
-```
-Shielded sponsorship:
-zs1gvj8aha3drjnerl3fxp3etwa2s8yepp45yqdkueuewe2cmuyadxyaxc838k5vcrldxdxv80atp6
+**We are developing a public research database, open-source alerting system, and public dashboard.** The Observatory Project is seeking patrons to fund the continued creation and operation of these public utilities. Individuals or entities may opt to remain anonymous, or be recognized publicly as a sponsor of key tooling for the Zcash ecosystem.
 
-Transparent sponsorship:
-t1LWFw5i5La9WJ1SBfn4VZ74L2dkVHUzoB4
 
-Fiat sponsors welcome, contact: Mitchell@InsightFellows.com
-```
-![https://raw.githubusercontent.com/insight-decentralized-consensus-lab/Zcash_Observatory_Docs/master/donations.png](https://raw.githubusercontent.com/insight-decentralized-consensus-lab/Zcash_Observatory_Docs/master/donations.png)
+**Shielded donations:**
 
+`zs1gvj8aha3drjnerl3fxp3etwa2s8yepp45yqdkueuewe2cmuyadxyaxc838k5vcrldxdxv80atp6`
+
+**Transparent donations:**
+
+`t1LWFw5i5La9WJ1SBfn4VZ74L2dkVHUzoB4`
+
+**Fiat donations are welcome**: contact [Mitchell@InsightFellows.com](mailto:Mitchell@InsightFellows.com)
+
+![https://raw.githubusercontent.com/insight-decentralized-consensus-lab/Zcash_Observatory_Docs/master/images/donations.png](https://raw.githubusercontent.com/insight-decentralized-consensus-lab/Zcash_Observatory_Docs/master/images/donations.png)
