@@ -41,6 +41,8 @@ We'd like to thank the Zcash Foundation for generous [financial support](https:/
 
 **Transparent donations:**
 
-(UPDATE) 
+`t1JC6DLFdxB4kAXMd6uf87fv6sDgMHaxdit`
 
 **Fiat donations are welcome**: contact [Mitchell@InsightFellows.com](mailto:Mitchell@InsightFellows.com)
+
+![https://raw.githubusercontent.com/insight-decentralized-consensus-lab/zcash-observatory-docs/master/images/donations2.png](https://raw.githubusercontent.com/insight-decentralized-consensus-lab/zcash-observatory-docs/master/images/donations2.png)
