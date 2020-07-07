@@ -25,7 +25,7 @@ As Zcash adoption expands and the network scales, consumers, researchers, and bu
 - [x] Advanced logging
 - [x] NetSec alerts
 - [x] Research pipelines
-- [ ] Global network
+- [x] Global network
 - [ ] Dashboard / front-end
 
 ### Donate to continue Observatory development
